@@ -1,0 +1,25 @@
+Sources
+======
+1. ds_headers.h - Header file containing the data structures info
+2. fileprocessing.c - Main file. Does everything
+
+
+Input text file
+===============
+1. inputfile.txt - Small input file for parsing and tree population.
+
+
+
+Compiling
+=========
+# gcc fileprocessing.c -o fileviewer
+
+
+Usage
+=====
+# ./fileviewer -f inputfile.txt
+
+
+Description
+===========
+The program reads an input file with a specified format of records, populates a BST and provides menu driven options to view, traverse, insert, delete and save the records in an output file in increasing order. To come to think over it, this is a program to arrange records of a file in ascending order.Full project description avaiable in the file ASDF.doc

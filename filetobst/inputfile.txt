@@ -1,0 +1,4 @@
+B # Concepts of Programming Languages # Robert Sebesta # 70 # T
+P # IEEE Spectrum # Susan Hassler # 2.50 # T # 762
+B # PL Concepts # David Watt # 80 # F
+E # Britannica # Encyclopedia Britannica # 800 # F
