@@ -22,4 +22,5 @@ Usage
 
 Description
 ===========
-The program reads an input file with a specified format of records, populates a BST and provides menu driven options to view, traverse, insert, delete and save the records in an output file in increasing order. To come to think over it, this is a program to arrange records of a file in ascending order.Full project description avaiable in the file ASDF.doc
+The program reads an input file with a specified format of records, populates a BST and provides menu driven options to view, traverse, insert, delete and save the records in an output file in increasing order. To come to think over it, this is a program to arrange records of a file in ascending order.
+Full project description avaiable in the file Requirement.doc
