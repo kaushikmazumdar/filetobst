@@ -1,0 +1,4 @@
+# Write to tool to populate the input file by n distinct records [ pref million records, book name to serve as the key ]
+# Implement threads and hashing to speed up the tree population.
+
+# Facilitate minimal query processing facility [ select, insert, where etc. ] ( separate project ? )
